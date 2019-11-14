@@ -65,6 +65,9 @@ This repo is a collection of Speech Corpus for automatic speech recognition (ASR
 ### paid
 https://www.cereproc.com/en/storecloud
 
+# ai
+https://www.cereproc.com/en/v6
+
 ### Contact Me
 
 [Yunchao He](mailto:yunchaohe@gmail.com)
