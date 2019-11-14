@@ -1,3 +1,11 @@
+https://www.quora.com/Where-do-I-get-dataset-for-English-speech-recognition
+
+# related
+
+https://github.com/communityus/human-voice-dataset
+
+# here
+
 https://github.com/communityus/TIMITspeech
 
 # Speech-Corpus-Collection
