@@ -1,5 +1,11 @@
 # Speech-Corpus-Collection
 
+- http://www.openslr.org/resources.php
+
+# 1
+
+- http://homepages.inf.ed.ac.uk/jyamagis/page3/page58/page58.html
+
 This repo is a collection of Speech Corpus for automatic speech recognition (ASR) and text-to-speech (TTS). 
 
 ### ASR Corpus
