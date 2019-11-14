@@ -1,4 +1,20 @@
+# learn
+
+http://www.speech.zone/courses/speech-synthesis/module-2-unit-selection/
+
+# serve
+
+https://github.com/communityus/marytts
+
+# question
+
 https://www.quora.com/Where-do-I-get-dataset-for-English-speech-recognition
+
+and http://mikesttsblog.altervista.org/tts-voices/?doing_wp_cron=1573714616.9552819728851318359375
+
+# solution
+
+https://www.modeltalker.org/demo/
 
 # related
 
@@ -45,6 +61,9 @@ This repo is a collection of Speech Corpus for automatic speech recognition (ASR
 1. [The NSynth Dataset](https://magenta.tensorflow.org/datasets/nsynth)
 <br>NSynth is an audio dataset containing 305,979 musical notes, each with a unique pitch, timbre, and envelope. For 1,006 instruments from commercial sample libraries, we generated four second, monophonic 16kHz audio snippets, referred to as notes, by ranging over every pitch of a standard MIDI pian o (21-108) as well as five different velocities (25, 50, 75, 100, 127). The note was held for the first three seconds and allowed to decay for the final second.
 
+
+### paid
+https://www.cereproc.com/en/storecloud
 
 ### Contact Me
 
